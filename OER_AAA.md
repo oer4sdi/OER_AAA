@@ -31,3 +31,10 @@ Die praktischen Übungen erfordern eine aktuelle Version der GIS-Software QGIS:
 
 **Download:**
 https://www.qgis.org/de/site/forusers/download.html
+
+# 1. Geobasisdaten im AAA Datenmodell
+
+### Was ist das AFIS, ALKIS, ATKIS Datenmodell? < Zum Inhalt!!
+Wir starten mit einem kurzen Explainer Video zum AAA-Schema. Das Video gibt einen Überblick über die Charakteristika der Daten, ihre Struktur sowie die Zugänglichkeit.
+
+Mit einem kurzen Quiz am Ende können sie überprüfen, ob sie die Kernpunkte des Abschnittes kennen. 
