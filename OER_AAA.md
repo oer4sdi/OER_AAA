@@ -122,3 +122,41 @@ Im zweiten Abschnitt werden zwei Zugangsmöglichkeiten zu den Daten demonstriert
 ## Selbsttest: Zugang zu AAA Datensätzen
 
 Nutzen Sie den kurzen Selbsttest um sicherzustellen, dass Sie gut gerüstet sind für den nächsten Abschnitt und ob Sie die wesentlichen Punkte dieser Lerneinheit verstanden haben.
+
+### Frage 1
+
+**Wie kann auf AAA Datensätze zugegriffen werden?**
+
+( ) a. Lizensiert, kostenpflichtig über das Internet
+
+( ) b. Kostenfrei und per Anfrage an das Landesamt
+
+(x) c. Kostenfrei, standardisiert und über das Internet
+
+
+### Frage 2
+
+**In welcher Form können AAA-Daten im GIS eingeladen werden?**
+
+(x) a. Geopackage (gpkg)
+
+( ) b. Web Processing Service (WPS)
+
+(x) c. Web Map Service (WMS)
+
+(x) d. Web Feature Service (WFS)
+
+( ) e. Web Coverage Service (WCS)
+
+( ) f. Web Map Tile Service (WMTS)
+
+
+### Frage 3
+
+**Auf welcher Ebene werden AAA-Datensätze angeboten?**
+
+(x) a. Auf Landesebene mit Merkmalsart-Auswahlmaske in GIS
+
+( ) b. Auf Bundesebene mit Landes-Auswahlmaske in GIS
+
+( ) c. Auf Kommunenebene mit Auswahlmaske im GIS für jedes Bundesland
