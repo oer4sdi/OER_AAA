@@ -231,3 +231,9 @@ Im dritten Teil werden zwei praxisnahe Beispiele bearbeitet, um einen Einblick i
 
 ( ) g. Functions
 
+
+# Evaluation
+
+Bitte folgen Sie diesem Link zu einer kurzen Evaluation des Kurses:
+
+[Link zur Evaluation!](https://docs.google.com/forms/d/1J5HS3y88ufsSY3Kut-ZolDeETW1-xsqgzXomKAvi8sY/edit)
