@@ -38,3 +38,87 @@ https://www.qgis.org/de/site/forusers/download.html
 Wir starten mit einem kurzen Explainer Video zum AAA-Schema. Das Video gibt einen Überblick über die Charakteristika der Daten, ihre Struktur sowie die Zugänglichkeit.
 
 Mit einem kurzen Quiz am Ende können sie überprüfen, ob sie die Kernpunkte des Abschnittes kennen. 
+
+![image](https://github.com/oer4sdi/OER_AAA/assets/152982068/40824439-99a5-4536-8229-ac1bad177e07)
+https://youtu.be/LWWAOAs3ALQ
+
+**Inhalte:**
+
+Wir starten mit einem kurzen Video zum AAA-Schema. Das Video gibt einen Überblick über die Charakteristika der Daten, ihre Struktur sowie den Zugang zu den Daten.
+
+
+**Themen:**
+
+- Geobasisdaten
+- Daten in AFIS-ALKIS-AKTIS Datensätze.
+- Struktur von AFIS-ALKIS-ATKIS Metadaten.
+- Zugangsmöglichkeiten zu AFIS-ALKIS-ATKIS Datensätzen.
+
+
+## Selbsttest: Das AAA Datenmodell
+
+Um sicherzustellen, dass Sie gut vorbereitet in den nächsten Abschnitt gehen können, ist hier eine Gelegenheit zu überprüfen, ob Sie die Kernpunkte dieser Lerneinheit verstanden haben.
+
+### Frage 1
+
+**Welche Informationssysteme umfasst das AAA-Schema?**
+
+(x) a. Amtliche Kartographische Informationssystem
+
+( ) b. Das Automatisierte Liegenschaftsbuch
+
+(x) c. Das Amtliche Festpunktinformationssystem
+
+( ) d. Die Automatisierte Liegenschaftskarte
+
+(x) e. Das Amtliche Liegenschaftskataster
+
+
+### Frage 2
+
+**Welche Informationen können dem AAA-Basisschema entnommen werden?**
+
+(x) a. Objekt ID (z. B. "27068")
+
+(x) b. Objektart (z. B. "41008")
+
+( ) c. Funktion (z. B. "Park")
+
+( ) d. Name (z. B. "Ohrbergpark")
+
+# 2. Zugang zu AAA Datensätzen
+
+### Zugang zu AAA Datensätzen < Zum Inhalt!!
+
+**Aufgabe:**
+
+Schauen sie das Video an und vollziehen Sie die Arbeitsschritte nach! Sie benötigen eine aktuelle Version der Software QGIS.
+
+**Download:**
+https://www.qgis.org/de/site/forusers/download.html
+
+**Im Video genutzte Datensätze:**
+- [Geodatabase](https://single-datasets.opengeodata.lgln.niedersachsen.de/bdlm/20230330_nba_bkg_bdlm_ni_ohne_HB_V5_1.gdb.zip)  (* *Link dazu führt zu sofortigem Download!* *) Dateigröße: ~400mb
+- WFS Layer von [Open.NRW](https://open.nrw/dataset/407373a2-422c-469c-a7e9-06a62b4d7d9a): https://www.wfs.nrw.de/geobasis/wfs_nw_alkis_aaa-modell-basiert?REQUEST=GetCapabilities&SERVICE=WFS
+
+**Genutztes Plugin:**
+WFS 2.0 Client (über die [Website](https://plugins.qgis.org/plugins/wfsclient/) downloadbar oder einfacher direkt über QGIS installierbar).
+
+![image](https://github.com/oer4sdi/OER_AAA/assets/152982068/6776f1ff-3447-444f-ba4b-325b78e29278)
+https://youtu.be/CTVSlmioViM
+
+**Inhalte:**
+
+Im zweiten Abschnitt werden zwei Zugangsmöglichkeiten zu den Daten demonstriert und aufgezeigt, wie sich die theoretischen Grundlagen aus dem ersten Abschnitt in den Daten praktisch widerspiegeln.
+
+
+**Themen:**
+
+- Aufrufen von AAA Daten in QGIS über Geopackages und WFS.
+- Analyse der Struktur von AAA Daten.
+- Arbeit mit dem AAA-Objektkartenkatalog.
+
+
+## Selbsttest: Zugang zu AAA Datensätzen
+
+Nutzen Sie den kurzen Selbsttest um sicherzustellen, dass Sie gut gerüstet sind für den nächsten Abschnitt und ob Sie die wesentlichen Punkte dieser Lerneinheit verstanden haben.
