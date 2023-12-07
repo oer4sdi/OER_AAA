@@ -160,3 +160,9 @@ Nutzen Sie den kurzen Selbsttest um sicherzustellen, dass Sie gut gerüstet sind
 ( ) b. Auf Bundesebene mit Landes-Auswahlmaske in GIS
 
 ( ) c. Auf Kommunenebene mit Auswahlmaske im GIS für jedes Bundesland
+
+
+
+#### [Link-Sammlung Geodatenzugänge der Bundesländer](https://moodle.ruhr-uni-bochum.de/mod/resource/view.php?id=2495157)
+
+In diesem Dokument finden Sie eine Auflistung der Zugänge zu freien Geodaten im Rahmen des AFIS ALKIS ATKIS Datenmodells. Teilweise sind Zugänge nicht intuitiv auffindbar, teilweise funktionieren sie nicht. Das Dokument soll Ihnen dabei helfen, schnell an benötigte Geodaten heran zu kommen.
