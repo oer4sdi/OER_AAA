@@ -166,3 +166,68 @@ Nutzen Sie den kurzen Selbsttest um sicherzustellen, dass Sie gut gerüstet sind
 #### [Link-Sammlung Geodatenzugänge der Bundesländer](https://moodle.ruhr-uni-bochum.de/mod/resource/view.php?id=2495157)
 
 In diesem Dokument finden Sie eine Auflistung der Zugänge zu freien Geodaten im Rahmen des AFIS ALKIS ATKIS Datenmodells. Teilweise sind Zugänge nicht intuitiv auffindbar, teilweise funktionieren sie nicht. Das Dokument soll Ihnen dabei helfen, schnell an benötigte Geodaten heran zu kommen.
+
+# 3. Arbeiten mit AKTIS Daten
+
+### Arbeiten mit AKTIS Daten < Zum Inhalt!!
+
+**Aufgabe:**
+
+Schauen Sie das Video an und vollziehen Sie die Arbeitsschritte nach! Sie benötigen eine aktuelle Version der Software QGIS.
+
+**Download:**
+https://www.qgis.org/de/site/forusers/download.html
+
+**Im Video genutzte Datensätze:**
+- WFS Layer: https://sgx.geodatenzentrum.de/wfs_vg1000
+- Basis DLM NRW: https://www.opengeodata.nrw.de/produkte/geobasis/lm/akt/basis-dlm/
+
+![image](https://github.com/oer4sdi/OER_AAA/assets/152982068/1946bc29-25a4-4a2a-826d-53abc112a3bf)
+https://youtu.be/JJHQR3tLLI4
+
+**Inhalte:**
+
+Im dritten Teil werden zwei praxisnahe Beispiele bearbeitet, um einen Einblick in die Möglichkeiten zu geben, die die Arbeit mit dem AFIS-ALKIS-ATKIS Datenkatalog bieten. Dabei kommen einfache Methoden der Geodatenbearbeitung mit QGIS zum Einsatz.
+
+
+**Themen:**
+
+- Aufrufen von AAA Daten in QGIS über Geopackages und WFS.
+- Analyse der Struktur von AAA Daten.
+- Arbeit mit dem AAA-Objektkartenkatalog.
+
+
+## Selbsttest: Arbeiten mit ATKIS Daten
+
+
+### Frage 1
+
+**In welcher Form ist eine Dokumentation zu den AAA-Daten einsehbar?**
+
+( ) a. In Form einer beigefügten Textdatei
+
+( ) b. In Form von einzelnen Websiten der jeweiligen Quelle des Datensatzes
+
+( ) c. In Form einer Attributtabelle im GIS
+
+(x) d. In Form eines Objektkartenkatalogs
+
+
+### Frage 2
+
+**Einzelne Objekte aus dem AAA-Datenschema können im GIS eingeladen werden als...**
+
+(x) a. Polygone, Linestrings & Points
+
+(x) b. Volumendaten
+
+( ) c. .jpeg-Files
+
+(x) d. Shapefiles
+
+(x) e. Features
+
+( ) f. MultiPatch
+
+( ) g. Functions
+
