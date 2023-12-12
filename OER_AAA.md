@@ -63,15 +63,18 @@ Um sicherzustellen, dass Sie gut vorbereitet in den nächsten Abschnitt gehen k�
 
 **Welche Informationssysteme umfasst das AAA-Schema?**
 
-(x) a. Amtliche Kartographische Informationssystem
+(x) a. Amtliche Kartographische Informationssystem    
+###### [Das Amtliche Kartographische Informationssystem (AKTIS) spiegelt die wesentlichen topographischen Eigenschaften der Landschaften in digitalen Modellen (Landwirtschaft, Siedlung, Wald, ...) wider.]
 
 ( ) b. Das Automatisierte Liegenschaftsbuch
 
 (x) c. Das Amtliche Festpunktinformationssystem
+###### [Das Amtliche Festpunktinformationssystem (AFIS) umfasst Lage-, Höhen- und Schwere-Festpunkte sowie GPS-Referenzstationen.]
 
 ( ) d. Die Automatisierte Liegenschaftskarte
 
 (x) e. Das Amtliche Liegenschaftskataster
+###### [Das Amtliche Liegenschaftskataster (ALKIS) umfasst Flurgrenzen und Gebäude.]
 
 
 ### Frage 2
@@ -133,6 +136,7 @@ Nutzen Sie den kurzen Selbsttest um sicherzustellen, dass Sie gut gerüstet sind
 
 (x) c. Kostenfrei, standardisiert und über das Internet
 
+###### [Der Zugang zu den AAA Datensätzen ist zwar standardisiert, jedoch nicht homogen über eine Website oder einen Dienst abrufbar. Hierzu müssen (leider) die einzelnen Webauftritte der Länder recherchiert werden. Wir haben allerdings eine Dokumentation zu den Zugängen und dessen Webadressen hier im Moodle bereitgestellt. Zusätzlich ist leider bei einigen Anbietern eine Vorab-Registrierung notwendig.]
 
 ### Frage 2
 
@@ -230,6 +234,8 @@ Im dritten Teil werden zwei praxisnahe Beispiele bearbeitet, um einen Einblick i
 ( ) f. MultiPatch
 
 ( ) g. Functions
+
+###### [Im GIS können AAA-Geoobjekte als Features in Form von Shapefiles (z. B. als Polygone) eingeladen werden. Daher sind sowohl Features, Shapefiles als auch Polygone, Linestrings und Points richtig.]
 
 
 # Evaluation
