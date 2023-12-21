@@ -1,5 +1,5 @@
 
-Das AAA-Datenmodell
+#Das AAA-Datenmodell
 
 Das AAA-Datenmodell, das in dieser Lerneinheit vorgestellt wird, ist ein wichtiger Bestandteil im Bereich der Datenverwaltung und -analyse. Diese videobasierte Lerneinheit bietet eine Einführung in das Modell und ermöglicht es den Teilnehmern, erste praktische Erfahrungen im Umgang mit den Daten zu sammeln.
 
