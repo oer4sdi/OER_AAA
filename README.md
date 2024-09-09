@@ -5,7 +5,7 @@ Das AAA-Datenmodell, das in dieser Lerneinheit vorgestellt wird, ist ein wichtig
 
 ## Nutzung
 
-Der Kursinhalt, der normalerweise auf einem Learning Management System (LMS) gehostet wird, ist im OER_AAA.md gespiegelt. Zusätzliche Inhalte finden Sie im Verzeichnis /files. HIer finden sie die Lerneinheit auf [OpenRUB](https://open.ruhr-uni-bochum.de/de/lernangebot/das-aaa-datenmodell).
+Der Kursinhalt, der normalerweise auf einem Learning Management System (LMS) gehostet wird, ist im OER_AAA.md gespiegelt. Zusätzliche Inhalte finden Sie im Verzeichnis /files. Hier finden sie die Lerneinheit auf [OpenRUB](https://open.ruhr-uni-bochum.de/de/lernangebot/das-aaa-datenmodell).
 
 ## Lizenz
 
